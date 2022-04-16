@@ -1,7 +1,7 @@
 <h1 align="center"> Comandos Windows </h1>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/69328711/163661918-2ebe5d05-4c69-4094-a866-7fc537a3dd21.png" alt="Image" height="500" width="900">
+<img src="https://user-images.githubusercontent.com/69328711/163661918-2ebe5d05-4c69-4094-a866-7fc537a3dd21.png" alt="Image" >
 </div>
 <br>
 <p>
