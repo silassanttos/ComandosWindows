@@ -1,7 +1,13 @@
-# ComandosWindows
+<h1 align="center"> Comandos Windows </h1>
 
-
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/69328711/163661918-2ebe5d05-4c69-4094-a866-7fc537a3dd21.png" alt="Image" height="500" width="900">
+</div>
+<br>
+<p>
+Todas as versões com suporte do Windows e Windows Server têm um conjunto de comandos de console Win32 integrados. Este conjunto de documentação descreve os Windows que você pode usar para automatizar tarefas usando scripts ou ferramentas de script. Abaixo contém alguns dos comandos mais utilizados.
+</p>
+<hr>
 Adicionar novo hardware ⇒ hdwwiz.cpl                           <br>
 Adicionar/Remover programas ⇒ appwiz.cpl                       <br>
 Adicionar/Remover Programas: appwiz.cpl                         <br>
